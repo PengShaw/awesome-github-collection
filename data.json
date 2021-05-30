@@ -1,0 +1,52 @@
+[
+    {
+        "name": "github-markdown-toc",
+        "type": "实用工具&站点",
+        "url": "https://github.com/ekalinin/github-markdown-toc",
+        "icon_url": [
+            "https://img.shields.io/github/stars/ekalinin/github-markdown-toc"
+        ],
+        "description": "shell 脚本用于生成 github markdown 目录。([此处](https://github.com/ekalinin/github-markdown-toc.go)还有go的实现版本)"
+    },
+    {
+        "name": "shields.io",
+        "type": "实用工具&站点",
+        "url": "https://github.com/badges/shields",
+        "icon_url": [
+            "https://img.shields.io/github/stars/badges/shields"
+        ],
+        "description": "用于生成各种 badges SVG, 可用于 GitHUb readme 文件"
+    },
+    {
+        "name": "GitHub520",
+        "type": "实用工具&站点",
+        "url": "https://github.com/521xueweihan/GitHub520",
+        "icon_url": [
+            "https://img.shields.io/github/stars/521xueweihan/GitHub520"
+        ],
+        "description": "静态解析 GitHub CDN，加速 GitHub 访问速度"
+    },
+    {
+        "name": "pretzelhammer/rust-blog",
+        "type": "学习资源/Rust",
+        "icon_url": [],
+        "description": "高质量的 Rust 学习博客"
+    },
+    {
+        "name": "flink-training-course",
+        "type": "学习资源/大数据",
+        "url": "https://github.com/flink-china/flink-training-course",
+        "icon_url": [
+            "https://img.shields.io/github/stars/flink-china/flink-training-course"
+        ],
+        "description": "系统性的 flink 入门教程"
+    },
+    {
+        "name": "GitHub 漫游指南",
+        "type": "学习资源/其他",
+        "url": "https://github.com/phodal/github",
+        "icon_url": [
+            "https://img.shields.io/github/stars/phodal/github"
+        ]
+    }
+]
