@@ -36,10 +36,46 @@
         "description": "开源数据库客户端"
     },
     {
+        "name": "joplin",
+        "type": "实用工具&站点",
+        "url": "https://github.com/laurent22/joplin",
+        "icon_url": [
+            "https://img.shields.io/github/stars/laurent22/joplin"
+        ],
+        "description": "开源笔记应用，支持 WebDAV"
+    },
+    {
+        "name": "SwitchHosts",
+        "type": "实用工具&站点",
+        "url": "https://github.com/oldj/SwitchHosts",
+        "icon_url": [
+            "https://img.shields.io/github/stars/oldj/SwitchHosts"
+        ],
+        "description": "管理本机 hosts 文件，配合 [GitHub520](https://github.com/521xueweihan/GitHub520) 使用"
+    },
+    {
+        "name": "jae-jae/Userscript-Plus",
+        "type": "实用工具&站点",
+        "icon_url": [],
+        "description": "油猴脚本"
+    },
+    {
         "name": "pretzelhammer/rust-blog",
         "type": "学习资源/Rust",
         "icon_url": [],
         "description": "高质量的 Rust 学习博客"
+    },
+    {
+        "name": "wuyouzhuguli/SpringAll",
+        "type": "学习资源/Java",
+        "icon_url": [],
+        "description": "Spring 学习资料"
+    },
+    {
+        "name": "tangqiaoboy/iOSBlogCN",
+        "type": "学习资源/IOS",
+        "icon_url": [],
+        "description": "中文 iOS/Mac 开发博客列表"
     },
     {
         "name": "flink-training-course",
@@ -77,6 +113,26 @@
         "icon_url": []
     },
     {
+        "name": "redhuntlabs/Awesome-Asset-Discovery",
+        "type": "学习资源/Awesome",
+        "icon_url": []
+    },
+    {
+        "name": "Hack-with-Github/Awesome-Hacking",
+        "type": "学习资源/Awesome",
+        "icon_url": []
+    },
+    {
+        "name": "shahraizali/awesome-django",
+        "type": "学习资源/Awesome",
+        "icon_url": []
+    },
+    {
+        "name": "haiiiiiyun/awesome-django-cn",
+        "type": "学习资源/Awesome",
+        "icon_url": []
+    },
+    {
         "name": "gothinkster/realworld",
         "type": "学习资源/示例项目",
         "icon_url": [],
@@ -98,5 +154,14 @@
             "https://img.shields.io/github/stars/phodal/github"
         ],
         "description": "高质量技术博客"
+    },
+    {
+        "name": "How-To-Ask-Questions-The-Smart-Way",
+        "type": "学习资源/其他",
+        "url": "https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way",
+        "icon_url": [
+            "https://img.shields.io/github/stars/ryanhanwu/How-To-Ask-Questions-The-Smart-Way"
+        ],
+        "description": "提問的智慧中文版"
     }
 ]

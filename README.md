@@ -6,6 +6,8 @@ GitHub 个人收藏
 * [实用工具&amp;站点](#实用工具站点)
 * [学习资源](#学习资源)
    * [Rust](#rust)
+   * [Java](#java)
+   * [IOS](#ios)
    * [大数据](#大数据)
    * [Awesome](#awesome)
    * [示例项目](#示例项目)
@@ -26,12 +28,29 @@ GitHub 个人收藏
 - [dbeaver](https://github.com/dbeaver/dbeaver)
 ![](https://img.shields.io/github/stars/dbeaver/dbeaver)
 \- 开源数据库客户端
+- [joplin](https://github.com/laurent22/joplin)
+![](https://img.shields.io/github/stars/laurent22/joplin)
+\- 开源笔记应用，支持 WebDAV
+- [SwitchHosts](https://github.com/oldj/SwitchHosts)
+![](https://img.shields.io/github/stars/oldj/SwitchHosts)
+\- 管理本机 hosts 文件，配合 [GitHub520](https://github.com/521xueweihan/GitHub520) 使用
+- [jae-jae/Userscript-Plus](https://github.com/jae-jae/Userscript-Plus)
+![](https://img.shields.io/github/stars/jae-jae/Userscript-Plus)
+\- 油猴脚本
 
 # 学习资源
 ## Rust
 - [pretzelhammer/rust-blog](https://github.com/pretzelhammer/rust-blog)
 ![](https://img.shields.io/github/stars/pretzelhammer/rust-blog)
 \- 高质量的 Rust 学习博客
+## Java
+- [wuyouzhuguli/SpringAll](https://github.com/wuyouzhuguli/SpringAll)
+![](https://img.shields.io/github/stars/wuyouzhuguli/SpringAll)
+\- Spring 学习资料
+## IOS
+- [tangqiaoboy/iOSBlogCN](https://github.com/tangqiaoboy/iOSBlogCN)
+![](https://img.shields.io/github/stars/tangqiaoboy/iOSBlogCN)
+\- 中文 iOS/Mac 开发博客列表
 ## 大数据
 - [flink-training-course](https://github.com/flink-china/flink-training-course)
 ![](https://img.shields.io/github/stars/flink-china/flink-training-course)
@@ -48,6 +67,14 @@ GitHub 个人收藏
 ![](https://img.shields.io/github/stars/streamnative/awesome-pulsar)
 - [jetli/awesome-yew](https://github.com/jetli/awesome-yew)
 ![](https://img.shields.io/github/stars/jetli/awesome-yew)
+- [redhuntlabs/Awesome-Asset-Discovery](https://github.com/redhuntlabs/Awesome-Asset-Discovery)
+![](https://img.shields.io/github/stars/redhuntlabs/Awesome-Asset-Discovery)
+- [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
+![](https://img.shields.io/github/stars/Hack-with-Github/Awesome-Hacking)
+- [shahraizali/awesome-django](https://github.com/shahraizali/awesome-django)
+![](https://img.shields.io/github/stars/shahraizali/awesome-django)
+- [haiiiiiyun/awesome-django-cn](https://github.com/haiiiiiyun/awesome-django-cn)
+![](https://img.shields.io/github/stars/haiiiiiyun/awesome-django-cn)
 ## 示例项目
 - [gothinkster/realworld](https://github.com/gothinkster/realworld)
 ![](https://img.shields.io/github/stars/gothinkster/realworld)
@@ -58,3 +85,6 @@ GitHub 个人收藏
 - [Halfrost-Field](https://github.com/halfrost/Halfrost-Field)
 ![](https://img.shields.io/github/stars/phodal/github)
 \- 高质量技术博客
+- [How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way)
+![](https://img.shields.io/github/stars/ryanhanwu/How-To-Ask-Questions-The-Smart-Way)
+\- 提問的智慧中文版
