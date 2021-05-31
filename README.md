@@ -7,6 +7,8 @@ GitHub 个人收藏
 * [学习资源](#学习资源)
    * [Rust](#rust)
    * [大数据](#大数据)
+   * [Awesome](#awesome)
+   * [示例项目](#示例项目)
    * [其他](#其他)
 
 ---
@@ -21,6 +23,9 @@ GitHub 个人收藏
 - [GitHub520](https://github.com/521xueweihan/GitHub520)
 ![](https://img.shields.io/github/stars/521xueweihan/GitHub520)
 \- 静态解析 GitHub CDN，加速 GitHub 访问速度
+- [dbeaver](https://github.com/dbeaver/dbeaver)
+![](https://img.shields.io/github/stars/dbeaver/dbeaver)
+\- 开源数据库客户端
 
 # 学习资源
 ## Rust
@@ -31,6 +36,25 @@ GitHub 个人收藏
 - [flink-training-course](https://github.com/flink-china/flink-training-course)
 ![](https://img.shields.io/github/stars/flink-china/flink-training-course)
 \- 系统性的 flink 入门教程
+## Awesome
+- [docker/awesome-compose](https://github.com/docker/awesome-compose)
+![](https://img.shields.io/github/stars/docker/awesome-compose)
+\- awesome list for docker-compose
+- [0xnr/awesome-bigdata](https://github.com/0xnr/awesome-bigdata)
+![](https://img.shields.io/github/stars/0xnr/awesome-bigdata)
+- [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses)
+![](https://img.shields.io/github/stars/prakhar1989/awesome-courses)
+- [streamnative/awesome-pulsar](https://github.com/streamnative/awesome-pulsar)
+![](https://img.shields.io/github/stars/streamnative/awesome-pulsar)
+- [jetli/awesome-yew](https://github.com/jetli/awesome-yew)
+![](https://img.shields.io/github/stars/jetli/awesome-yew)
+## 示例项目
+- [gothinkster/realworld](https://github.com/gothinkster/realworld)
+![](https://img.shields.io/github/stars/gothinkster/realworld)
+\- 各种框架 & 技术真实使用示例
 ## 其他
 - [GitHub 漫游指南](https://github.com/phodal/github)
 ![](https://img.shields.io/github/stars/phodal/github)
+- [Halfrost-Field](https://github.com/halfrost/Halfrost-Field)
+![](https://img.shields.io/github/stars/phodal/github)
+\- 高质量技术博客

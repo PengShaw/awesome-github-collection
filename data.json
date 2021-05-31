@@ -27,6 +27,15 @@
         "description": "静态解析 GitHub CDN，加速 GitHub 访问速度"
     },
     {
+        "name": "dbeaver",
+        "type": "实用工具&站点",
+        "url": "https://github.com/dbeaver/dbeaver",
+        "icon_url": [
+            "https://img.shields.io/github/stars/dbeaver/dbeaver"
+        ],
+        "description": "开源数据库客户端"
+    },
+    {
         "name": "pretzelhammer/rust-blog",
         "type": "学习资源/Rust",
         "icon_url": [],
@@ -42,11 +51,52 @@
         "description": "系统性的 flink 入门教程"
     },
     {
+        "name": "docker/awesome-compose",
+        "type": "学习资源/Awesome",
+        "icon_url": [],
+        "description": "awesome list for docker-compose"
+    },
+    {
+        "name": "0xnr/awesome-bigdata",
+        "type": "学习资源/Awesome",
+        "icon_url": []
+    },
+    {
+        "name": "prakhar1989/awesome-courses",
+        "type": "学习资源/Awesome",
+        "icon_url": []
+    },
+    {
+        "name": "streamnative/awesome-pulsar",
+        "type": "学习资源/Awesome",
+        "icon_url": []
+    },
+    {
+        "name": "jetli/awesome-yew",
+        "type": "学习资源/Awesome",
+        "icon_url": []
+    },
+    {
+        "name": "gothinkster/realworld",
+        "type": "学习资源/示例项目",
+        "icon_url": [],
+        "description": "各种框架 & 技术真实使用示例"
+    },
+    {
         "name": "GitHub 漫游指南",
         "type": "学习资源/其他",
         "url": "https://github.com/phodal/github",
         "icon_url": [
             "https://img.shields.io/github/stars/phodal/github"
         ]
+    },
+    {
+        "name": "Halfrost-Field",
+        "type": "学习资源/其他",
+        "url": "https://github.com/halfrost/Halfrost-Field",
+        "icon_url": [
+            "https://img.shields.io/github/stars/phodal/github"
+        ],
+        "description": "高质量技术博客"
     }
 ]
