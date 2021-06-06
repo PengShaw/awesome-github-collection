@@ -60,6 +60,15 @@
         "description": "油猴脚本"
     },
     {
+        "name": "microsoft/PowerToys",
+        "type": "实用工具&站点",
+        "url": "https://github.com/microsoft/PowerToys",
+        "icon_url": [
+            "https://img.shields.io/github/stars/microsoft/PowerToys"
+        ],
+        "description": "微软官方 windows 效率工具"
+    },
+    {
         "name": "pretzelhammer/rust-blog",
         "type": "学习资源/Rust",
         "icon_url": [],
@@ -72,10 +81,22 @@
         "description": "Spring 学习资料"
     },
     {
+        "name": "eastlakeside/interpy-zh",
+        "type": "学习资源/Python",
+        "icon_url": [],
+        "description": "Intermediate Python 中文版"
+    },
+    {
         "name": "tangqiaoboy/iOSBlogCN",
         "type": "学习资源/IOS",
         "icon_url": [],
         "description": "中文 iOS/Mac 开发博客列表"
+    },
+    {
+        "name": "zhisheng17/flink-learning",
+        "type": "学习资源/大数据",
+        "icon_url": [],
+        "description": "Flink 从0到1学习"
     },
     {
         "name": "flink-training-course",
@@ -87,6 +108,24 @@
         "description": "系统性的 flink 入门教程"
     },
     {
+        "name": "wangzhiwubigdata/God-Of-BigData",
+        "type": "学习资源/大数据",
+        "icon_url": [],
+        "description": "专注大数据学习面试，大数据成神之路开启。"
+    },
+    {
+        "name": "heibaiying/BigData-Notes",
+        "type": "学习资源/大数据",
+        "icon_url": [],
+        "description": "大数据入门指南"
+    },
+    {
+        "name": "fengdu78/lihang-code",
+        "type": "学习资源/AI",
+        "icon_url": [],
+        "description": "《统计学习方法》的代码实现"
+    },
+    {
         "name": "docker/awesome-compose",
         "type": "学习资源/Awesome",
         "icon_url": [],
@@ -94,6 +133,21 @@
     },
     {
         "name": "0xnr/awesome-bigdata",
+        "type": "学习资源/Awesome",
+        "icon_url": []
+    },
+    {
+        "name": "enaqx/awesome-react",
+        "type": "学习资源/Awesome",
+        "icon_url": []
+    },
+    {
+        "name": "brillout/awesome-react-components",
+        "type": "学习资源/Awesome",
+        "icon_url": []
+    },
+    {
+        "name": "rehooks/awesome-react-hooks",
         "type": "学习资源/Awesome",
         "icon_url": []
     },
@@ -128,7 +182,22 @@
         "icon_url": []
     },
     {
+        "name": "jobbole/awesome-programming-books",
+        "type": "学习资源/Awesome",
+        "icon_url": []
+    },
+    {
+        "name": "toutiaoio/awesome-architecture",
+        "type": "学习资源/Awesome",
+        "icon_url": []
+    },
+    {
         "name": "haiiiiiyun/awesome-django-cn",
+        "type": "学习资源/Awesome",
+        "icon_url": []
+    },
+    {
+        "name": "troxler/awesome-css-frameworks",
         "type": "学习资源/Awesome",
         "icon_url": []
     },
@@ -163,5 +232,41 @@
             "https://img.shields.io/github/stars/ryanhanwu/How-To-Ask-Questions-The-Smart-Way"
         ],
         "description": "提問的智慧中文版"
+    },
+    {
+        "name": "iamshuaidi/CS-Book",
+        "type": "学习资源/其他",
+        "icon_url": [],
+        "description": "计算机类常用电子书整理"
+    },
+    {
+        "name": "rogerzhu/MNWeeklyCategory",
+        "type": "学习资源/其他",
+        "icon_url": [],
+        "description": "码农周刊一周精选分类"
+    },
+    {
+        "name": "timqian/chinese-independent-blogs",
+        "type": "学习资源/其他",
+        "icon_url": [],
+        "description": "中文独立博客列表"
+    },
+    {
+        "name": "ruanyf/free-books",
+        "type": "学习资源/其他",
+        "icon_url": [],
+        "description": "互联网上的免费书籍"
+    },
+    {
+        "name": "guanguans/favorite-link",
+        "type": "学习资源/其他",
+        "icon_url": [],
+        "description": "每日收集喜欢的开源项目"
+    },
+    {
+        "name": "xiaolai/regular-investing-in-box",
+        "type": "学习资源/其他",
+        "icon_url": [],
+        "description": "定投改变命运 -- 李笑来"
     }
 ]
