@@ -69,6 +69,48 @@
         "description": "微软官方 windows 效率工具"
     },
     {
+        "name": "jessfraz/dockerfiles",
+        "type": "实用工具&站点",
+        "icon_url": [],
+        "description": "用于桌面和server的各种 dockerfiles"
+    },
+    {
+        "name": "celery/celery",
+        "type": "库&工具/Python",
+        "icon_url": [],
+        "description": "分布式任务队列"
+    },
+    {
+        "name": "tsroten/pynlpir",
+        "type": "库&工具/Python",
+        "icon_url": [],
+        "description": "中文分词&分析"
+    },
+    {
+        "name": "thunlp/THULAC-Python",
+        "type": "库&工具/Python",
+        "icon_url": [],
+        "description": "中文词法分析工具包"
+    },
+    {
+        "name": "fxsjy/jieba",
+        "type": "库&工具/Python",
+        "icon_url": [],
+        "description": "结巴中文分词"
+    },
+    {
+        "name": "isnowfy/snownlp",
+        "type": "库&工具/Python",
+        "icon_url": [],
+        "description": "中文分词&分析"
+    },
+    {
+        "name": "chinese-poetry/chinese-poetry",
+        "type": "开源数据集",
+        "icon_url": [],
+        "description": "最全中华古诗词数据库"
+    },
+    {
         "name": "pretzelhammer/rust-blog",
         "type": "学习资源/Rust",
         "icon_url": [],
@@ -85,6 +127,12 @@
         "type": "学习资源/Python",
         "icon_url": [],
         "description": "Intermediate Python 中文版"
+    },
+    {
+        "name": "aosabook/500lines",
+        "type": "学习资源/Python",
+        "icon_url": [],
+        "description": "500 行 Python 实现各种程序"
     },
     {
         "name": "tangqiaoboy/iOSBlogCN",
@@ -124,6 +172,18 @@
         "type": "学习资源/AI",
         "icon_url": [],
         "description": "《统计学习方法》的代码实现"
+    },
+    {
+        "name": "ZuzooVn/machine-learning-for-software-engineers",
+        "type": "学习资源/AI",
+        "icon_url": [],
+        "description": "自上而下的学习路线: 软件工程师的机器学习"
+    },
+    {
+        "name": "hangtwenty/dive-into-machine-learning",
+        "type": "学习资源/AI",
+        "icon_url": [],
+        "description": "结合 Python Jupyter notebook & scikit-learn 学习 Machine Learning"
     },
     {
         "name": "docker/awesome-compose",
@@ -202,6 +262,11 @@
         "icon_url": []
     },
     {
+        "name": "sindresorhus/awesome",
+        "type": "学习资源/Awesome",
+        "icon_url": []
+    },
+    {
         "name": "gothinkster/realworld",
         "type": "学习资源/示例项目",
         "icon_url": [],
@@ -264,9 +329,27 @@
         "description": "每日收集喜欢的开源项目"
     },
     {
+        "name": "git-tips/tips",
+        "type": "学习资源/其他",
+        "icon_url": [],
+        "description": "Git 的奇技淫巧"
+    },
+    {
         "name": "xiaolai/regular-investing-in-box",
         "type": "学习资源/其他",
         "icon_url": [],
         "description": "定投改变命运 -- 李笑来"
+    },
+    {
+        "name": "kamranahmedse/developer-roadmap",
+        "type": "学习资源/其他",
+        "icon_url": [],
+        "description": "web developer road map"
+    },
+    {
+        "name": "tuvtran/project-based-learning",
+        "type": "学习资源/其他",
+        "icon_url": [],
+        "description": "基于项目学习"
     }
 ]

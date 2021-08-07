@@ -4,10 +4,13 @@ GitHub 个人收藏
 ---
 
 * [实用工具&amp;站点](#实用工具站点)
+* [库&amp;工具](#库工具)
+   * [Python](#python)
+* [开源数据集](#开源数据集)
 * [学习资源](#学习资源)
    * [Rust](#rust)
    * [Java](#java)
-   * [Python](#python)
+   * [Python](#python-1)
    * [IOS](#ios)
    * [大数据](#大数据)
    * [AI](#ai)
@@ -42,6 +45,32 @@ GitHub 个人收藏
 - [microsoft/PowerToys](https://github.com/microsoft/PowerToys)
 ![](https://img.shields.io/github/stars/microsoft/PowerToys)
 \- 微软官方 windows 效率工具
+- [jessfraz/dockerfiles](https://github.com/jessfraz/dockerfiles)
+![](https://img.shields.io/github/stars/jessfraz/dockerfiles)
+\- 用于桌面和server的各种 dockerfiles
+
+# 库&工具
+## Python
+- [celery/celery](https://github.com/celery/celery)
+![](https://img.shields.io/github/stars/celery/celery)
+\- 分布式任务队列
+- [tsroten/pynlpir](https://github.com/tsroten/pynlpir)
+![](https://img.shields.io/github/stars/tsroten/pynlpir)
+\- 中文分词&分析
+- [thunlp/THULAC-Python](https://github.com/thunlp/THULAC-Python)
+![](https://img.shields.io/github/stars/thunlp/THULAC-Python)
+\- 中文词法分析工具包
+- [fxsjy/jieba](https://github.com/fxsjy/jieba)
+![](https://img.shields.io/github/stars/fxsjy/jieba)
+\- 结巴中文分词
+- [isnowfy/snownlp](https://github.com/isnowfy/snownlp)
+![](https://img.shields.io/github/stars/isnowfy/snownlp)
+\- 中文分词&分析
+
+# 开源数据集
+- [chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry)
+![](https://img.shields.io/github/stars/chinese-poetry/chinese-poetry)
+\- 最全中华古诗词数据库
 
 # 学习资源
 ## Rust
@@ -56,6 +85,9 @@ GitHub 个人收藏
 - [eastlakeside/interpy-zh](https://github.com/eastlakeside/interpy-zh)
 ![](https://img.shields.io/github/stars/eastlakeside/interpy-zh)
 \- Intermediate Python 中文版
+- [aosabook/500lines](https://github.com/aosabook/500lines)
+![](https://img.shields.io/github/stars/aosabook/500lines)
+\- 500 行 Python 实现各种程序
 ## IOS
 - [tangqiaoboy/iOSBlogCN](https://github.com/tangqiaoboy/iOSBlogCN)
 ![](https://img.shields.io/github/stars/tangqiaoboy/iOSBlogCN)
@@ -77,6 +109,12 @@ GitHub 个人收藏
 - [fengdu78/lihang-code](https://github.com/fengdu78/lihang-code)
 ![](https://img.shields.io/github/stars/fengdu78/lihang-code)
 \- 《统计学习方法》的代码实现
+- [ZuzooVn/machine-learning-for-software-engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
+![](https://img.shields.io/github/stars/ZuzooVn/machine-learning-for-software-engineers)
+\- 自上而下的学习路线: 软件工程师的机器学习
+- [hangtwenty/dive-into-machine-learning](https://github.com/hangtwenty/dive-into-machine-learning)
+![](https://img.shields.io/github/stars/hangtwenty/dive-into-machine-learning)
+\- 结合 Python Jupyter notebook & scikit-learn 学习 Machine Learning
 ## Awesome
 - [docker/awesome-compose](https://github.com/docker/awesome-compose)
 ![](https://img.shields.io/github/stars/docker/awesome-compose)
@@ -109,6 +147,8 @@ GitHub 个人收藏
 ![](https://img.shields.io/github/stars/haiiiiiyun/awesome-django-cn)
 - [troxler/awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks)
 ![](https://img.shields.io/github/stars/troxler/awesome-css-frameworks)
+- [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
+![](https://img.shields.io/github/stars/sindresorhus/awesome)
 ## 示例项目
 - [gothinkster/realworld](https://github.com/gothinkster/realworld)
 ![](https://img.shields.io/github/stars/gothinkster/realworld)
@@ -137,6 +177,15 @@ GitHub 个人收藏
 - [guanguans/favorite-link](https://github.com/guanguans/favorite-link)
 ![](https://img.shields.io/github/stars/guanguans/favorite-link)
 \- 每日收集喜欢的开源项目
+- [git-tips/tips](https://github.com/git-tips/tips)
+![](https://img.shields.io/github/stars/git-tips/tips)
+\- Git 的奇技淫巧
 - [xiaolai/regular-investing-in-box](https://github.com/xiaolai/regular-investing-in-box)
 ![](https://img.shields.io/github/stars/xiaolai/regular-investing-in-box)
 \- 定投改变命运 -- 李笑来
+- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+![](https://img.shields.io/github/stars/kamranahmedse/developer-roadmap)
+\- web developer road map
+- [tuvtran/project-based-learning](https://github.com/tuvtran/project-based-learning)
+![](https://img.shields.io/github/stars/tuvtran/project-based-learning)
+\- 基于项目学习
